@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(npx nodemon:*)",
+      "Bash(node server.js:*)",
+      "Bash(timeout:*)",
+      "Bash(npm run dev)",
+      "Bash(dir package.json:*)",
+      "Bash(npm install lucide-react)",
+      "Bash(npx tailwindcss:*)"
+    ]
+  }
+}
